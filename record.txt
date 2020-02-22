@@ -1,0 +1,12 @@
+Player Name :Biki
+Played Date:Sun Sep 03 22:41:49 2017
+Score:26
+___________________________________________________
+Player Name :Asdf
+Played Date:Sun Sep 03 22:56:55 2017
+Score:22
+___________________________________________________
+Player Name :Biki
+Played Date:Sun Sep 03 23:24:51 2017
+Score:28
+___________________________________________________
